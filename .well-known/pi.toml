@@ -1,0 +1,6 @@
+[[CURRENCIES]]
+code = "BLSPI"
+issuer = "GDFBKHF6E3D4TQM26HXZKMVA7TNGQHGPHD2SK6K6EN4Y4BLVI5PKSNO4"
+name = "BLSPI Token"
+desc = "BLSPI is the ecosystem token for the Pi Network BLSPI project, powering rewards across BLSPIMarketplace, 3D Racers, Apex Riders, Temple Pi Run, and Racer Game."
+image = "https://blspi-token-manageme-h421.bolt.host/blspi-logo.png"
